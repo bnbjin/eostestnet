@@ -1,0 +1,2 @@
+# eostestnet
+eos testnet
